@@ -6,10 +6,6 @@ This repository contains our NHL analytics project, where we analyze team statis
 
 Using publicly available NHL team statistics, we examine the relationship between team performance metrics and overall success to better understand what drives winning outcomes in the league. Our analysis uses exploratory data analysis and visualization techniques to uncover patterns and relationships between on-ice performance and win totals, allowing us to identify which statistics appear to have the strongest connection to team success. Through this project, we aim not only to gain insights into the factors that separate top-performing teams from the rest of the league, but also to strengthen our skills in data cleaning, analysis, visualization, and collaborative interpretation of real-world sports data.
 
-### Interesting Insight (Optional)
-
-(WILL BE DONE LATER)
-
 ## Data Sources and Acknowledgements
 
 The data used for this project was sourced from the Score Network NHL dataset for the 2022–2023 season, https://data.scorenetwork.org/hockey/nhl_2223.html, which provides publicly available team-level performance statistics across the league. This dataset includes detailed measures of team outcomes and on-ice performance that support our exploratory analysis of which factors most strongly relate to winning games. The data is openly accessible and maintained as part of the Score Network Hockey data repository.
