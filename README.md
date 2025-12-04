@@ -4,7 +4,7 @@ This repository contains our NHL analytics project, where we analyze team statis
 
 ## Overview
 
-Using publicly available NHL team statistics, we examine the relationship between key performance metrics and overall team success. Our analysis focuses on how factors such as goal differential, shootout wins, goals for and against, and special-teams performance correlate with total wins, using visualizations and exploratory data analysis to highlight meaningful trends across teams.
+Using publicly available NHL team statistics, we examine the relationship between team performance metrics and overall success to better understand what drives winning outcomes in the league. Our analysis uses exploratory data analysis and visualization techniques to uncover patterns and relationships between on-ice performance and win totals, allowing us to identify which statistics appear to have the strongest connection to team success. Through this project, we aim not only to gain insights into the factors that separate top-performing teams from the rest of the league, but also to strengthen our skills in data cleaning, analysis, visualization, and collaborative interpretation of real-world sports data.
 
 ### Interesting Insight (Optional)
 
