@@ -13,6 +13,7 @@ This is optional but highly recommended. You'll include one interesting insight 
 ## Data Sources and Acknowledgements
 
 Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+https://data.scorenetwork.org/hockey/nhl_2223.html
 
 ## Current Plan
 
