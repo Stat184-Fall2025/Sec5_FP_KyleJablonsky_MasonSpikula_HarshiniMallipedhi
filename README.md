@@ -1,10 +1,10 @@
 # Project Title
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repository contains our NHL analytics project, where we analyze team statistics such as goal differential and shootout wins to determine which factors are most strongly associated with total wins. It includes cleaned datasets, visualizations, and statistical analyses used to support our findings.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+Using publicly available NHL team statistics, we examine the relationship between key performance metrics and overall team success. Our analysis focuses on how factors such as goal differential, shootout wins, goals for and against, and special-teams performance correlate with total wins, using visualizations and exploratory data analysis to highlight meaningful trends across teams.
 
 ### Interesting Insight (Optional)
 
@@ -25,4 +25,4 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Mason Spikula (mrs7283@psu.edu) Kyle Jablonsky (kkj5303@psu.edu) Harshini Mallipedhi (hqm5380@psu.edu)
