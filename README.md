@@ -15,9 +15,13 @@ This is optional but highly recommended. You'll include one interesting insight 
 The data used for this project was sourced from the Score Network NHL dataset for the 2022–2023 season, https://data.scorenetwork.org/hockey/nhl_2223.html, which provides publicly available team-level performance statistics across the league. This dataset includes detailed measures of team outcomes and on-ice performance that support our exploratory analysis of which factors most strongly relate to winning games. The data is openly accessible and maintained as part of the Score Network Hockey data repository.
 
 We used the following categories of statistics from the dataset:
+
 Team performance data – Win totals, goals for and against, and goal differential.
+
 Game outcome indicators – Shootout outcomes and overtime results.
+
 Special teams metrics – Power-play and penalty-kill efficiencies where available.
+
 Summary team metrics – Aggregated values used to evaluate trends across the league.
 
 These datasets were cleaned and prepared for analysis prior to visualization and modeling. By focusing on team-level measures rather than individual player statistics, our project emphasizes identifying league-wide patterns that best explain overall team success.
