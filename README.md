@@ -1,4 +1,4 @@
-# Project Title
+# NHL Analytics: Identifying the Key Factors Behind Team Wins
 
 This repository contains our NHL analytics project, where we analyze team statistics such as goal differential and shootout wins to determine which factors are most strongly associated with total wins. It includes cleaned datasets, visualizations, and statistical analyses used to support our findings.
 
