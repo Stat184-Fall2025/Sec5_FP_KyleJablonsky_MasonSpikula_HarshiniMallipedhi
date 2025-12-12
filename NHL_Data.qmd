@@ -1,30 +1,7 @@
 ---
-title: "NHL Team Statistics"
-subtitle: "STAT 184"
-authors: "Mason Spikula - Harshini Mallipedhi - Kyle Jablonsky"
-date: "Monday, December 8, 2025"
-date-format: full
-date-modified: now
-
-format:
-  html:
-    embed-resources: true
-    number-sections: true
-    toc: true
-    toc-depth: 4
-    toc-location: right
-    fig-align: center
-    cap-location: top
-    link-external-newwindow: true
-  pdf:
-    toc: true
-    number-sections: true
-
-execute:
-  echo: false
-  eval: true
-  warning: false
-engine: knitr
+title: "NHL_Data"
+format: html
+editor: visual
 ---
 
 ## Quarto
