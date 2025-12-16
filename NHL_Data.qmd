@@ -111,7 +111,7 @@ title = "Distribution of Wins (2022–23 NHL Season)"
 )
 ```
 
-Above is graph showing win distributions
+Above is a graph showing win distributions, this helps show us that most teams have from 40-50 wins.
 
 ```{r}
 nhl_clean %>%
@@ -124,7 +124,7 @@ title = "Distribution of Total Points"
 )
 ```
 
-Above is a graph showing point distribution
+Above is a graph showing point distribution, this is interesting as you expect this graph to be very similar to the wins graph as every win is worth 2 points but its not. This shows us that points from overtime loses matter more than you would expect as they give one point.
 
 
 ```{r}
@@ -140,6 +140,8 @@ y = "Goals Against"
 )
 ```
 
+Above is a graph showing the relationship between Goals for and Goals against, this stays consisntent with what we would expect in having the teams who made made playoffs in having those teams be farther to the right and you can even see a slight gap bettween the playoff teams and the other teams, this is true for all of the playoff teams except for the Islanders and Wild as they have a Low Goals for and Low Goals against and they are next to teams who did not make the playoffs. This shows us that the Islanders and Wild were probably defense first teams with good goaltenders compared to the rest of the teams.
+
 ```{r}
 nhl_clean %>%
 ggplot(aes(x = GF, y = PTS, label = Team)) +
@@ -152,6 +154,8 @@ x = "Goals For",
 y = "Total Points"
 )
 ```
+
+Above is a graph showing the relationship between Goals for and Points, this again stays consisnten with what we would expect for playoff teams being in the top right, and again the Islanders and Wild are below the gap between other playoff teams and other teams.
 
 ```{r}
 nhl_clean %>%
@@ -166,6 +170,8 @@ y = "Total Points"
 )
 ```
 
+Above is a graph showing the relationship between Goals against and Points, this graph is not as skewed and there is no gapt between playoff teams and other teams. This shows that the higher your Goals against the lower your points.
+
 ```{r}
 nhl_clean %>%
 ggplot(aes(x = DIFF, y = W, label = Team)) +
@@ -178,6 +184,8 @@ x = "Goal Differential",
 y = "Wins"
 )
 ```
+
+Above is a graph 
 
 ```{r}
 nhl_clean %>%
