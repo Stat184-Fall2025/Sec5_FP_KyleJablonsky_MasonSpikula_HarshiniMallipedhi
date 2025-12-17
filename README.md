@@ -12,11 +12,9 @@ The data used for this project was sourced from the Score Network NHL dataset fo
 
 We used the following categories of statistics from the dataset:
 
-Team performance data – Win totals, goals for and against, and goal differential.
+Team performance data – Win totals, goals for, goals gainst, and goal differential.
 
-Game outcome indicators – Shootout outcomes and overtime results.
-
-Special teams metrics – Power-play and penalty-kill efficiencies where available.
+Game outcome indicators – Shootout points and percentage results.
 
 Summary team metrics – Aggregated values used to evaluate trends across the league.
 
